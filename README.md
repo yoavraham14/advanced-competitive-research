@@ -1,1 +1,1 @@
-# advanced-competitive-research
+# advanced-competitive-research.
